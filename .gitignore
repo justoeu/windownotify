@@ -1,0 +1,14 @@
+# Compiled source #
+*.class
+
+# Eclipse Files #
+.classpath
+.project
+.settings/
+target/
+bin/
+
+# Compacted Sources #
+*.jar
+*.war
+*.ear
